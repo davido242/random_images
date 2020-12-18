@@ -1,7 +1,7 @@
 function display_random_image() 
 {
      var theImages = [{
-        src: "http://farm4.staticflickr.com/3691/11268502654_f28f05966c_m.jpg",
+        src: "https://avatars2.githubusercontent.com/u/64144845?s=460&u=5b74594b011e7cba350211df364dcead2ef11656&v=4",
         width: "240",
         height: "160"
     }, {
